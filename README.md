@@ -35,6 +35,7 @@ Hi, I'm N!no 😉, a sofware developer from PR, China 🇨🇳. I'm an open-sour
 
 **Current Status Quo**
 
+- 🏫 I just graduated from SYSU.
 - 👨🏻‍💻 I’m currently working on [hist](https://github.com/scikit-hep/hist) and [G6](https://github.com/antvis/G6).
 - 🌱 I’m learning TypeScripts and Python now.
 - 👾 I may spend a gap year due to COVID-19.
