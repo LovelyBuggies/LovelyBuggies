@@ -35,7 +35,7 @@ Hi, I'm N!no 😉, a programmer 👨🏻‍💻 from China 🇨🇳. I'm an open
 
 **Current Status Quo**
 
-- 👨🏻‍💻 I’m currently working on [scikit-hep/hist](https://github.com/scikit-hep/hist) and [antvis/G6](https://github.com/antvis/G6) projects.
+- 👨🏻‍💻 I’m currently working on [hist](https://github.com/scikit-hep/hist) and [G6](https://github.com/antvis/G6).
 - 🌱 I’m currently learning TypeScripts and Python.
 - 🤔 My research interests are Blockchain Systems, Deep Reinforcement Learning, etc.
 - 💼 I’m pursuing a Ph.D. degree or R.A. position, currently.
