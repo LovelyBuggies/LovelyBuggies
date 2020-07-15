@@ -1,5 +1,11 @@
 ### Welcome to LøvelyBuggies's Hut 👋
 
+<a href="https://tva1.sinaimg.cn/large/007S8ZIlgy1ggrqy7om28j30j80omjtq.jpg">
+  <img align="left" alt="Wechat" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/wechat.svg" />
+</a>
+<a href="https://www.linkedin.com/in/%E7%A1%95-%E5%88%98-073728144/">
+  <img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/linkedin.svg" />
+</a>
 <a href="ninomyemail@gmail.com">
   <img align="left" alt="'Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/gmail.svg" />
 </a>
@@ -21,9 +27,10 @@ Hi, I'm N!no 😉, a programmer 👨🏻‍💻 from China 🇨🇳. I'm an open
 
 - 👨🏻‍💻 I’m currently working on [scikit-hep/hist](https://github.com/scikit-hep/hist) and [antvis/G6](https://github.com/antvis/G6).
 - 🌱 I’m currently learning TypeScripts and Python.
-- 🤔 I’m hunting for Ph.D. or R.A. position with research on ANN and DRL.
-- 💬 Ask me about anything, I am glad to help.
-- 📫 Email ninomyemail@gmail.com to reach me.
-- 👀 Here's my [Curriculum Vitae](https://drive.google.com/file/d/1mr_yoVcBn6QolFWAOXSJzxQYvO7ShjNu/view?ths=true).
+- 🤔 My research interests are with Blockchain Systems, Deep Reinforcement Learning, etc.
+- 💼 I’m pursuing a Ph.D. degree or R.A. position.
+- 💬 Ask me about anything, I would like to answer.
+- 📫 Please email via ninomyemail@gmail.com to reach me.
+- 👀 See my [Curriculum Vitae](https://drive.google.com/file/d/1mr_yoVcBn6QolFWAOXSJzxQYvO7ShjNu/view?ths=true) to get more info.
 
 ![LovelyBuggies's github stats](https://github-readme-stats.vercel.app/api?username=lovelybuggies&show_icons=true&hide_border=true)
