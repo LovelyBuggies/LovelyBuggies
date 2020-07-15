@@ -15,11 +15,11 @@
 
 Hi, I'm N!no 😉, a programmer 👨🏻‍💻 from China 🇨🇳. I'm an open-source profession and always develop in Python 🐍. Currently, I'm working on [scikit-hep/hist](https://github.com/scikit-hep/hist) and [antvis/G6](https://github.com/antvis/G6). Beside's programming, I like delicious food 🥗🥩🌮🍣 and doing supports 🏃⛹️‍♂️🏋🏼‍♂️.
 
-  <img align="right" alt="GIF" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
+  <img align="right" alt="GIF" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" />
 
 **Current Status Quo**
 
-- 🏽‍💻 I’m currently working on [scikit-hep/hist](https://github.com/scikit-hep/hist) and [antvis/G6](https://github.com/antvis/G6).
+- 👨🏻‍💻 I’m currently working on [scikit-hep/hist](https://github.com/scikit-hep/hist) and [antvis/G6](https://github.com/antvis/G6).
 - 🌱 I’m currently learning TypeScripts and Python.
 - 🤔 I’m hunting for Ph.D. or R.A. position with research on ANN and DRL.
 - 💬 Ask me about anything, I am glad to help.
@@ -27,6 +27,3 @@ Hi, I'm N!no 😉, a programmer 👨🏻‍💻 from China 🇨🇳. I'm an open
 - 👀 Here's my [Curriculum Vitae](https://drive.google.com/file/d/1mr_yoVcBn6QolFWAOXSJzxQYvO7ShjNu/view?ths=true).
 
 ![LovelyBuggies's github stats](https://github-readme-stats.vercel.app/api?username=lovelybuggies&show_icons=true&hide_border=true)
-
-
-
