@@ -37,7 +37,7 @@ Hi, I'm N!no 😉, a programmer 👨🏻‍💻 from China 🇨🇳. I'm an open
 
 - 👨🏻‍💻 I’m currently working on [hist](https://github.com/scikit-hep/hist) and [G6](https://github.com/antvis/G6).
 - 🌱 I’m currently learning TypeScripts and Python.
-- 👾 I will spend my gap year due to COVID-19, maybe🧐.
+- 👾 I will probably spend a gap year due to COVID-19.
 - 💼 I’m pursuing a Ph.D. degree or R.A. position, currently.
 - 🧐 My research interests are Blockchain Systems, Deep Reinforcement Learning, etc.
 - 📫 Please email via ninomyemail@gmail.com to reach me.
