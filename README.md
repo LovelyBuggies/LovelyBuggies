@@ -3,6 +3,9 @@
 <a href="https://tva1.sinaimg.cn/large/007S8ZIlgy1ggrqy7om28j30j80omjtq.jpg">
   <img align="left" alt="Wechat" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/wechat.svg" />
 </a>
+<a href="https://www.youtube.com/channel/UCsSdKrx-hpoCySh8emxrPaA?view_as=subscriber">
+  <img align="left" alt="YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/youtube.svg" />
+</a>
 <a href="https://www.linkedin.com/in/%E7%A1%95-%E5%88%98-073728144/">
   <img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/linkedin.svg" />
 </a>
@@ -15,6 +18,13 @@
 <a href="https://www.kaggle.com/ninolau">
   <img align="left" alt="Kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/kaggle.svg" />
 </a>
+<a href="https://stackoverflow.com/users/13016027/nino-lau">
+  <img align="left" alt="StackOverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/stackoverflow.svg" />
+</a>
+<a href="https://auth.geeksforgeeks.org/user/ninomyemail/">
+  <img align="left" alt="GeeksforGeeks" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/geeksforgeeks.svg" />
+</a>
+
 
 <br />
 <br />
