@@ -1,8 +1,5 @@
 ### Welcome to LøvelyBuggies's Hut 👋
 
-<a href="https://tva1.sinaimg.cn/large/007S8ZIlgy1ggrqy7om28j30j80omjtq.jpg">
-  <img align="left" alt="Wechat" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/wechat.svg" />
-</a>
 <a href="https://www.youtube.com/channel/UCsSdKrx-hpoCySh8emxrPaA?view_as=subscriber">
   <img align="left" alt="YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/youtube.svg" />
 </a>
