@@ -26,7 +26,7 @@
 <br />
 <br />
 
-Hi, I'm N!no 😉, a sofware developer from China 🇨🇳. I'm an open-source professional and Python Developer 🐍. Currently, I'm working on [scikit-hep/hist](https://github.com/scikit-hep/hist) and [antvis/G6](https://github.com/antvis/G6). Beside's programming, I like delicious food 🥗 and sports ♂️🏋🏼‍♂️.
+Hi, I'm N!no 😉, a sofware developer from China 🇨🇳. I'm an open-source professional and Python Developer 🐍. Currently, I'm working on [scikit-hep/hist](https://github.com/scikit-hep/hist) and [antvis/G6](https://github.com/antvis/G6). Beside's programming, I like delicious food 🥗 and sports 🏋🏼‍♂️.
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" />
 
