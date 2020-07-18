@@ -30,8 +30,6 @@ Hi, I'm N!no 😉, a sofware developer from China 🇨🇳. I'm an open-source p
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" />
 
-**Current Status Quo**
-
 <details>
 <summary><strong>Current Status Quo</strong></summary>
 🎓 I just graduated from Sun Yat-sen University.<br>
