@@ -32,7 +32,7 @@ Hi, I'm N!no 😉, a sofware developer from China 🇨🇳. I'm an open-source p
 
 **Current Status Quo**
 
-- 🏫 I just graduated from Sun Yat-sen University.
+- 🎓 I just graduated from Sun Yat-sen University.
 - 👨🏻‍💻  I’m currently working on [hist](https://github.com/scikit-hep/hist) and [G6](https://github.com/antvis/G6).
 - 🌱 I’m learning TypeScripts and Python now.
 - 👾 I may spend a gap year due to COVID-19.
