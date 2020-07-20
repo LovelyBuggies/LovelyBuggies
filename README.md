@@ -38,7 +38,7 @@ Hi, I'm N!no 😉, a sofware developer from China 🇨🇳. I'm an open-source p
 - 👾 I may spend a gap year due to COVID-19.<br>
 - 💼 I’m pursuing a Ph.D. degree or R.A. position.<br>
 - ⭐️ My research interests are Blockchain Systems, Deep Reinforcement Learning, etc.<br>
-- 📭 Please send me [an email](ninomyemail@gmail.com) to reach me.<br>
+- 📭 Please send me an [email](ninomyemail@gmail.com) to reach me.<br>
 - 👀 See my [Curriculum Vitae](https://drive.google.com/file/d/1mr_yoVcBn6QolFWAOXSJzxQYvO7ShjNu/view?ths=true) to get more info.<br>
 
 <!--![LovelyBuggies's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lovelybuggies&show_icons=true&hide_border=false&text_color=333333)-->
