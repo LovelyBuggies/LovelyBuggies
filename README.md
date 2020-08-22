@@ -36,7 +36,7 @@ Hi, I'm N!no 😉, a software developer from China 🇨🇳. I'm an open-source 
 - 💻 I’m currently working on [hist](https://github.com/scikit-hep/hist) and [G6](https://github.com/antvis/G6).
 - 🌱 I’m learning TypeScripts and Python now.
 - 💼 I will pursue my master's at UCI.
-- ⭐️ My research interests are Blockchain Systems, Deep Reinforcement Learning, etc.
+- ⭐️ My research interests are Deep Reinforcement Learning.
 - 📭 Please send me an [email](ninomyemail@gmail.com) to reach me.
 - 👀 See my [Curriculum Vitae](https://drive.google.com/file/d/1mr_yoVcBn6QolFWAOXSJzxQYvO7ShjNu/view?ths=true) to get more info.
 
