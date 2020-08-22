@@ -36,8 +36,8 @@ Hi, I'm N!no 😉, a software developer from China 🇨🇳. I'm an open-source 
 - 💻 I’m currently working on [hist](https://github.com/scikit-hep/hist) and [G6](https://github.com/antvis/G6).
 - 🌱 I’m learning TypeScripts and Python now.
 - 💼 I will pursue my master's at UCI.
-- ⭐️ My research interests are Deep Reinforcement Learning.
-- 📭 Please send me an [email](ninomyemail@gmail.com) to reach me.
+- ⭐️ I am interested in DRL.
+- 📭 Please send me an [Email](ninomyemail@gmail.com) to reach me.
 - 👀 See my [Curriculum Vitae](https://drive.google.com/file/d/1mr_yoVcBn6QolFWAOXSJzxQYvO7ShjNu/view?ths=true) to get more info.
 
 <!--![LovelyBuggies's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lovelybuggies&show_icons=true&hide_border=false&text_color=333333)-->
