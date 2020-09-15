@@ -22,12 +22,10 @@
   <img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/linkedin.svg" />
 </a>-->
 
-<br/>
-<br/>
 
 Hi, I'm Nino, a Chinese software developer. I'm an open-source professional and studying at UCI.
 
-  <img align="right" alt="GIF" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" />
+<!--<img align="right" alt="GIF" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" />-->
 
 **Current Status Quo**
 
