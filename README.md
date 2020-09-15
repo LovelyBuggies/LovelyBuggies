@@ -32,8 +32,8 @@ Hi, I'm Nino 😉, a software developer from China 🇨🇳. I'm an open-source 
 **Current Status Quo**
 
 - 🎓 I just graduated from SYSU.
-- 💻 I’m currently working on [hist](https://github.com/scikit-hep/hist) and [G6](https://github.com/antvis/G6).
-- 🌱 I’m learning TypeScripts and Python now.
+- 💻 I’m currently working on [hist](https://github.com/scikit-hep/hist) and [LightGraphs](https://github.com/JuliaGraphs/LightGraphs.jl).
+- 🌱 I’m learning Julia and Python now.
 - 💼 I will pursue my master's at UCI.
 - ⭐️ I am interested in DRL.
 - 📭 Please send me an [Email](ninomyemail@gmail.com) to reach me.
