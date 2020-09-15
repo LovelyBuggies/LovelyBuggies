@@ -1,6 +1,6 @@
 ### Welcome to LøvelyBuggies's Hut 👋
 
-<a href="ninomyemail@gmail.com">
+<!--<a href="ninomyemail@gmail.com">
   <img align="left" alt="'Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/gmail.svg" />
 </a>
 <a href="https://leetcode.com/lovelybuggies/">
@@ -20,12 +20,12 @@
 </a>
 <a href="https://www.linkedin.com/in/%E7%A1%95-%E5%88%98-073728144/">
   <img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/linkedin.svg" />
-</a>
+</a>-->
 
 <br/>
 <br/>
 
-Hi, I'm Nino 😉, a software developer from China 🇨🇳. I'm an open-source professional and Python developer 🐍. Currently, I'm pursuing my master's at UCI.
+Hi, I'm Nino, a Chinese software developer. I'm an open-source professional and studying at UCI.
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" />
 
