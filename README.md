@@ -25,7 +25,7 @@
 <br/>
 <br/>
 
-Hi, I'm Nino 😉, a software developer from China 🇨🇳. I'm an open-source professional and Python developer 🐍. Currently, I'm pursuing my master's at UCI, MCS. Beside's programming, I like delicious food 🥗 and sports 🏋🏼‍♂️.
+Hi, I'm Nino 😉, a software developer from China 🇨🇳. I'm an open-source professional and Python developer 🐍. Currently, I'm pursuing my master's at UCI.
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" />
 
