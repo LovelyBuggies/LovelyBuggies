@@ -25,18 +25,18 @@
 <br/>
 <br/>
 
-Hi, I'm Nino 😉, a software developer from China 🇨🇳. I'm an open-source professional and Python developer 🐍. Currently, I'm working on [scikit-hep/hist](https://github.com/scikit-hep/hist) and [antvis/G6](https://github.com/antvis/G6). Beside's programming, I like delicious food 🥗 and sports 🏋🏼‍♂️.
+Hi, I'm Nino 😉, a software developer from China 🇨🇳. I'm an open-source professional and Python developer 🐍. Currently, I'm pursuing my master's at UCI, MCS. Beside's programming, I like delicious food 🥗 and sports 🏋🏼‍♂️.
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" />
 
 **Current Status Quo**
 
 - 🎓 I just graduated from SYSU.
-- 💻 I’m currently working on [hist](https://github.com/scikit-hep/hist) and [LightGraphs](https://github.com/JuliaGraphs/LightGraphs.jl).
+- 💻 I’m currently working on [Hist](https://github.com/scikit-hep/hist) and [LightGraphs](https://github.com/JuliaGraphs/LightGraphs.jl).
 - 🌱 I’m learning Julia and Python now.
 - 💼 I will pursue my master's at UCI.
 - ⭐️ I am interested in DRL.
 - 📭 Please send me an [Email](ninomyemail@gmail.com) to reach me.
 - 👀 See my [Curriculum Vitae](https://drive.google.com/file/d/1mr_yoVcBn6QolFWAOXSJzxQYvO7ShjNu/view?ths=true) to get more info.
 
-<!--![LovelyBuggies's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lovelybuggies&show_icons=true&hide_border=false&text_color=333333)-->
+![LovelyBuggies's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lovelybuggies&show_icons=true&hide_border=false&text_color=333333)
