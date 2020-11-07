@@ -29,10 +29,10 @@ Hi, I'm Nino, a Chinese software developer. I'm an open-source professional and 
 
 **Current Status Quo**
 
-- 🎓 Graduated from SYSU.
+- 🎓 Researching at Inplus Lab, SYSU.
 - 💻 Working on [Hist](https://github.com/scikit-hep/hist) and [LightGraphs](https://github.com/JuliaGraphs/LightGraphs.jl).
-- 🌱 Learning Julia and Python now.
-- ⭐️ Interested in DRL.
+- 🌱 Learning Julia and Python.
+- ⭐️ Interested in DRL - KD.
 - 📭 Send me an [Email](ninomyemail@gmail.com) to reach me :)
 
 <!--![LovelyBuggies's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lovelybuggies&show_icons=true&hide_border=false&text_color=333333)-->
