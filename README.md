@@ -23,9 +23,9 @@
 </a>-->
 
 
-Hi, I'm Nino, a Chinese software developer. I'm an open-source professional and will study at Columbia University.
+Hi, I'm Nino, a Chinese software developer. I'm an open-source professional and study at Columbia University's MSCS (ML Track).
 
-<!--<img align="right" alt="GIF" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" />-->
+<img align="right" alt="GIF" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" />
 
 **Current Status Quo**
 
