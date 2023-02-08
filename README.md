@@ -23,7 +23,7 @@
 </a>-->
 
 
-Hi, I'm Nino, a Chinese software developer. I'm an open-source professional and study at Columbia University's MSCS.
+Hi, I'm Nino, a Chinese software developer. I'm an open-source professional and study at Columbia University.
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" />
 
