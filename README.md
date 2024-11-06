@@ -23,16 +23,5 @@
 </a>-->
 
 
-Hi, I'm Nino, a Chinese software developer. I'm an open-source professional and study at Columbia University.
-
-<img align="right" alt="GIF" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" />
-
-**Current Status Quo**
-
-- 🎓   Studying at Columbia.
-- 💻   Working on [Hist](https://github.com/scikit-hep/hist).
-- 🌱   Learning Python.
-- ⭐️   Interested in DRL.
-- 📭   [Email](ninomyemail@gmail.com) to reach me :)
 
 <!--![LovelyBuggies's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lovelybuggies&show_icons=true&hide_border=false&text_color=333333)-->
